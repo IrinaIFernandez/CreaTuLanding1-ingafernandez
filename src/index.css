@@ -30,8 +30,8 @@ a:hover {
 body {
    margin: 0;
   padding: 0;
-  min-height: 100vh; /* hace que ocupe toda la pantalla */
-  background-color: white; /* fondo blanco */
+  min-height: 100vh; 
+  background-color: white; 
   font-family: Arial, sans-serif;
 }
 

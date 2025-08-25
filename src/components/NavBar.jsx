@@ -1,5 +1,5 @@
 import CartWidget from './CartWidget.jsx'
-import logoImg from '../assets/logo.png'   // 👈 importa tu logo
+import logoImg from '../assets/logo.png'   
 
 export default function NavBar() {
   const nav = {

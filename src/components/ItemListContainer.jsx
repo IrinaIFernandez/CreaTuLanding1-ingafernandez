@@ -1,6 +1,6 @@
 export default function ItemListContainer({ greeting }) {
   const main = {
-  height: '100vh', // ahora sí puede ser 100vh
+  height: '100vh', 
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
